@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://riteshpandey3639.github.io/riteshpandey3639.github.io-HTML5-CSS3-JS-Portfolio/](https://riteshpandey3639.github.io/riteshpandey3639.github.io-HTML5-CSS3-JS-Portfolio/)
 
-- 💬 Ask me about **REST, Nodejs**
+- 💬 Ask me about **REST, Nodejs, ExpressJS, MongoDB**
 
 - 📫 How to reach me **pandeyritesh3639@gmail.com**
 
